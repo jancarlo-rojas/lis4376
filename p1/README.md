@@ -1,37 +1,31 @@
-# LIS4381
+# LIS476
 
 ## Jancarlo Rojas
 
-### Project 1 Requirements:
+### Assignment 1 Requirements:
 
+*SSH Keygen:*
 
-
-1. Develop an App in Android Studio
-2. Create a shadow for button
-3. Make app responsive
-4. Create Skillsets
-
+1. Produces a private key and a public key
+2. These files got stored in my user folder inside another folder named .ssh
 
 ---
+
+> #### Git commands w/short descriptions:
+
+1. git init - create an empty git repo or reinit an existing one
+2. git status - gives you the current status of the working directory
+3. git add - adds new files as in you want to push them w git
+4. git commit - locks in the files you just added, can also add commit messages using this
+5. git push - pushes your changes from local to your online repo
+6. git pull - receives your files from online repo
+7. git rm -r (filename) - removes selected file
 
 ---
 
 #### Assignment Screenshots:
 
-*Screenshot of Android Studio App*:
+*PUT DESCRIPTIONS OF SS HERE:
 
-![AMPPS Installation Screenshot](/img/p1and.png)
+![AMPPS Installation Screenshot](/img/aamps.png)
 
-*Screenshot of second screen*:
-
-![JDK Installation Screenshot](/img/p1and2.png)
-
-
----
-
-*Skillsets 7-9*:
-
-| ![Skillset 7](/img/skillset7.png) | ![Skillset 8](/img/skillset8.png) | ![Skillset 9](/img/skillset9.png) |
-|-------------------------|-------------------------|-------------------------|
-
----

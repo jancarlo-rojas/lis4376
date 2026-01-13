@@ -1,51 +1,31 @@
-> **NOTE:** This README.md file should be placed at the **root of each subdirectory--e.g., a1, a2, etc.**
->
->Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
->
+# LIS476
 
-# Course Title
+## Jancarlo Rojas
 
-## Your Name
+### Assignment 1 Requirements:
 
-### Assignment # Requirements:
+*SSH Keygen:*
 
-*Sub-Heading:*
+1. Produces a private key and a public key
+2. These files got stored in my user folder inside another folder named .ssh
 
-1. Ordered-list items
-2. 
-3. 
+---
 
-#### README.md file should include the following items:
-
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
 > #### Git commands w/short descriptions:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. git init - create an empty git repo or reinit an existing one
+2. git status - gives you the current status of the working directory
+3. git add - adds new files as in you want to push them w git
+4. git commit - locks in the files you just added, can also add commit messages using this
+5. git push - pushes your changes from local to your online repo
+6. git pull - receives your files from online repo
+7. git rm -r (filename) - removes selected file
 
-#### Assignment Screenshots (Note: **BE SURE** to modify for specific course!):
+---
 
-*Screenshot of AMPPS running http://localhost*:
+#### Assignment Screenshots:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+*PUT DESCRIPTIONS OF SS HERE:
 
-*Screenshot of running java Hello*:
+![AMPPS Installation Screenshot](/img/aamps.png)
 
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)

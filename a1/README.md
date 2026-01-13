@@ -1,4 +1,4 @@
-# LIS4381
+# LIS476
 
 ## Jancarlo Rojas
 
@@ -25,16 +25,7 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*PUT DESCRIPTIONS OF SS HERE:
 
 ![AMPPS Installation Screenshot](/img/aamps.png)
 
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](/img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](/img/android.png)
-
----

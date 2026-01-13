@@ -1,51 +1,31 @@
-# LIS4381
+# LIS476
 
 ## Jancarlo Rojas
 
-### Assignment 3 Requirements:
+### Assignment 1 Requirements:
 
-1. Develop a app in Android Studio
-2. Develop 3 Skillsets
-3. Create a database for app
-4. Make app scrollable
-5. Insert data in ERD
+*SSH Keygen:*
 
+1. Produces a private key and a public key
+2. These files got stored in my user folder inside another folder named .ssh
 
+---
+
+> #### Git commands w/short descriptions:
+
+1. git init - create an empty git repo or reinit an existing one
+2. git status - gives you the current status of the working directory
+3. git add - adds new files as in you want to push them w git
+4. git commit - locks in the files you just added, can also add commit messages using this
+5. git push - pushes your changes from local to your online repo
+6. git pull - receives your files from online repo
+7. git rm -r (filename) - removes selected file
+
+---
 
 #### Assignment Screenshots:
 
-*Android Studio App*:
+*PUT DESCRIPTIONS OF SS HERE:
 
- ![Vertical SS](/img/a3app1.png)  ![Vertical SS](/img/a3app2.png) 
+![AMPPS Installation Screenshot](/img/aamps.png)
 
-
- ![Horizontal SS](/img/a3app3.png)  ![Horizontal SS](/img/a3app4.png) 
-
----
-
-*ERD*:
-
-![ERD](/img/ERDa3.png)
-
----
-
-*Inserts*:
-
-| ![Petstore Inserts](/img/a3erd1.png) | ![Pet Inserts](/img/a3erd2.png) | ![Customer Inserts](/img/a3erd3.png) |
-|-------------------------|-------------------------|-------------------------|
-
----
-
-*mwb & sql downloads*:
-
-* [a3.mwb](./a3.mwb)
-* [a3.sql](./a3.sql)
-
----
-
-*Skillsets 4-6*:
-
-| ![Skillset 4](/img/skillset4.png) | ![Skillset 5](/img/skillset5.png) | ![Skillset 6](/img/skillset6.png) |
-|-------------------------|-------------------------|-------------------------|
-
----
