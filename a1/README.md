@@ -31,7 +31,7 @@
 
 *Screenshot of a1 paycheck calculator running (IDLE):
 
-![IDLE SS](/img/paycheckCalc.png)
+![IDLE SS](/img/PaycheckCalc.png)
 
 *Screenshot of a1 paycheck calculator running (VS):
 
