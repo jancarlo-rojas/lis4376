@@ -5,9 +5,12 @@
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-	- 
-	- 
-	- 
+	- Install Anaconda Python
+	- Install Visual Studio Code
+	- Create a1_paycheck_calculator application
+	- Provide screenshots of installations
+	- Create Bitbucket repo
+	- Provide git command descriptions
 2. [A2 README.md](a2/README.md "My A2 README.md file")
 	- 
 	- 

@@ -1,15 +1,19 @@
-# LIS476
+# LIS4376 - Artificial Intelligence Applications
 
 ## Jancarlo Rojas
 
 ### Assignment 1 Requirements:
-
-*SSH Keygen:*
-
-1. Produces a private key and a public key
-2. These files got stored in my user folder inside another folder named .ssh
+1. Distributed version control with git and bitbucket
+2. Development Installations
+3. Questions
+4. Bitbucket repo (main) link
 
 ---
+
+ - Links:
+  - [paycheck_calculator.ipynb](/a1/a1_paycheck_calculator.ipynb)
+  - [run_py_files_in_jupyter_lab.ipynb](/a1/run_py_files_in_jupyter_lab.ipynb)
+  - [magic_commands.ipynb](/a1/magic_commands.ipynb)
 
 > #### Git commands w/short descriptions:
 
@@ -25,7 +29,22 @@
 
 #### Assignment Screenshots:
 
-*PUT DESCRIPTIONS OF SS HERE:
+*Screenshot of a1 paycheck calculator running (IDLE):
 
-![AMPPS Installation Screenshot](/img/aamps.png)
+![IDLE](/img/paycheckCalc.png)
 
+*Screenshot of a1 paycheck calculator running (VS):
+
+![VS](/img/CMDPaycheckCalc.png)
+
+*Screenshot of a1 paycheck calculator running (JUPYTER):
+
+![IPYNB](/img/paycheckIPYNB.png)
+
+*Screenshot of magic commands running (JUPYTER):
+
+![IPYNB](/img/magiccom1.png) | ![IPYNB](/img/magiccom2.png)
+
+*Screenshot of running python files in jupyter running (JUPYTER):
+
+![IPYNB](/img/runpy.png)
