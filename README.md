@@ -12,9 +12,11 @@
 	- Create Bitbucket repo
 	- Provide git command descriptions
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-	- 
-	- 
-	- 
+	- Jupyter Notebook Development, A2.ipynb
+	- Create environment which is compatible with packages
+	- Downgrade Python
+	- Create python program which displays packages
+	- 3 Skillsets and screenshots
 3. [A3 README.md](a3/README.md "My A3 README.md file")
 	- 
 	- 
