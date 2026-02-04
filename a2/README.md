@@ -1,31 +1,33 @@
-# LIS476
+# LIS4736 - Artificial Intelligence Applications
 
 ## Jancarlo Rojas
 
-### Assignment 1 Requirements:
+### Assignment 2 Requirements:
 
-*SSH Keygen:*
-
-1. Produces a private key and a public key
-2. These files got stored in my user folder inside another folder named .ssh
-
----
-
-> #### Git commands w/short descriptions:
-
-1. git init - create an empty git repo or reinit an existing one
-2. git status - gives you the current status of the working directory
-3. git add - adds new files as in you want to push them w git
-4. git commit - locks in the files you just added, can also add commit messages using this
-5. git push - pushes your changes from local to your online repo
-6. git pull - receives your files from online repo
-7. git rm -r (filename) - removes selected file
+- Jupyter Notebook Screenshots
+- A2.ipynb and create link
+- Conda Environment
+- Create python program displaying packages
+- Export conda environment
 
 ---
+
+#### Links
+
+- [my_env_versions.py](/a2/my_env_versions.py)
+- [testenv.yml](/a2/testenv.yml)
+- [A2.ipynb](/a2/A2.ipynb)
 
 #### Assignment Screenshots:
 
-*PUT DESCRIPTIONS OF SS HERE:
+*Conda Environment & Python Program*:
 
-![AMPPS Installation Screenshot](/img/aamps.png)
+![CondaEnv](/img/a2myenvpy.png) ![CondaEnv](/img/a2envlist.png)
 
+---
+
+*A2 Gif*:
+
+![A2GIF](/img/A2.gif)
+
+---
