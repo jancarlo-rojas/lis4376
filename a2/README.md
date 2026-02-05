@@ -31,3 +31,11 @@
 ![A2GIF](/img/A2.gif)
 
 ---
+
+*Skillsets 1-3*: 
+
+![SS1](/img/SS1_Lists.png)
+
+![SS2](/img/SS2_Tuples.png)
+
+![SS3](/img/SS3_Sets1.png) ![SS3.2](/img/SS3_Sets2.png)
