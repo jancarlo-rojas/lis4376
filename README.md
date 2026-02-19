@@ -18,9 +18,10 @@
 	- Create python program which displays packages
 	- 3 Skillsets and screenshots
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-	- 
-	- 
-	- 
+	- Skillsets 4-6 (reverse engineered)
+	- Cleaned Data A3
+	- Visualize Data
+	- Reverse Engineered A3 in Jupyter
 4. [A4 README.md](a4/README.md "My A4 README.md file")
 	- 
 	- 
