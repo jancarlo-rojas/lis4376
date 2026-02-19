@@ -9,14 +9,14 @@ import functions as f
 def main():
     f.get_requirements()
 
-    your_dictionary = f.get_dictionary()
+    mydictionary = f.get_dictionary()
 
-    f.parse_dictionary(your_dictionary)
-    f.count_dictionary(your_dictionary)
-    f.add_elements(your_dictionary)
-    f.update_elements(your_dictionary)
-    f.delete_elements(your_dictionary)
-    f.delete_dictionary(your_dictionary)
+    f.parse_dictionary(mydictionary)
+    f.count_dictionary(mydictionary)
+    f.add_elements(mydictionary)
+    f.update_elements(mydictionary)
+    f.delete_elements(mydictionary)
+    f.delete_dictionary(mydictionary)
 
 
 if __name__ == "__main__":
