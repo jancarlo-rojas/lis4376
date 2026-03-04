@@ -1,31 +1,35 @@
-# LIS476
+# LIS4376 - AI Applications
 
 ## Jancarlo Rojas
 
-### Assignment 1 Requirements:
+### Project 1 Requirements:
 
-*SSH Keygen:*
-
-1. Produces a private key and a public key
-2. These files got stored in my user folder inside another folder named .ssh
-
----
-
-> #### Git commands w/short descriptions:
-
-1. git init - create an empty git repo or reinit an existing one
-2. git status - gives you the current status of the working directory
-3. git add - adds new files as in you want to push them w git
-4. git commit - locks in the files you just added, can also add commit messages using this
-5. git push - pushes your changes from local to your online repo
-6. git pull - receives your files from online repo
-7. git rm -r (filename) - removes selected file
-
----
+1. Text analysis, clarification and prediction notebook
+2. Backwards Engineer Skillsets 7-9
+3. Sentiment Analysis
+4. Prediction Model
+5. Prediction Analysis
 
 #### Assignment Screenshots:
 
-*PUT DESCRIPTIONS OF SS HERE:
+*A3 Gif*:
 
-![AMPPS Installation Screenshot](/img/aamps.png)
+![P1GIF](/img/P1.gif)
 
+---
+
+*Files*: 
+
+[P1.ipynb](/P1/P1.ipynb)
+
+[SimplePrediction.ipynb](/P1/SimplePrediction.ipynb)
+
+[ClassActivity](/P1/ClassActivity)
+
+
+### *Skillsets 7-9*: 
+[![SS7](/img/SS7_Pseudorandom.png)](/skillsets/SS7_Pseudorandom) [Pseudorandom](/skillsets/SS7_Pseudorandom)
+
+[![SS8](/img/SS8_Interest.png)](/skillsets/SS8_Interest) [Interest](/skillsets/SS8_Interest)
+
+[![SS9](/img/SS9_Guessing.png)](/skillsets/SS9_Guessing) [Guessing](/skillsets/SS9_Guessing)

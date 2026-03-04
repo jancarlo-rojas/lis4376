@@ -23,9 +23,9 @@
 #### Assignment Screenshots:
 
 *Skillsets 4-6*: 
-[A3.ipynb](/skillsets/SS4_Dictionaries)
+[Dictionaries.ipynb](/skillsets/SS4_Dictionaries)
 ![SS4](/img/SS4_Dictionaries.png)
-[A3.ipynb](/skillsets/SS5_Dataframe1)
+[Dataframe1.ipynb](/skillsets/SS5_Dataframe1)
 ![SS5](/img/ss5.gif)
-[A3.ipynb](/skillsets/SS6_Dataframe2)
+[Dataframe2.ipynb](/skillsets/SS6_Dataframe2)
 ![SS6](/img/SS6_Dataframe2.png)

@@ -31,9 +31,11 @@
 	- 
 	- 
 6. [P1 README.md](p1/README.md "My p1 README.md file")
-	- 
-	- 
-	- 
+	- Text analysis, clarification and prediction notebook
+	- Backwards Engineer Skillsets 7-9
+	- Sentiment Analysis
+	- Prediction Model
+	- Prediction Analysis
 7. [P2 README.md](p2/README.md "My p2 README.md file")
 	- 
 	- 
