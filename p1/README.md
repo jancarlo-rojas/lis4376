@@ -12,7 +12,7 @@
 
 #### Assignment Screenshots:
 
-*A3 Gif*:
+*P1 Gif*:
 
 ![P1GIF](/img/P1.gif)
 
