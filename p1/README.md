@@ -28,8 +28,14 @@
 
 
 ### *Skillsets 7-9*: 
-[![SS7](/img/SS7_Pseudorandom.png)](/skillsets/SS7_Pseudorandom) [Pseudorandom](/skillsets/SS7_Pseudorandom)
+[Pseudorandom](/skillsets/SS7_Pseudorandom) <br>
 
-[![SS8](/img/SS8_Interest.png)](/skillsets/SS8_Interest) [Interest](/skillsets/SS8_Interest)
+[![SS7](/img/SS7_Pseudorandom.png)](/skillsets/SS7_Pseudorandom) 
 
-[![SS9](/img/SS9_Guessing.png)](/skillsets/SS9_Guessing) [Guessing](/skillsets/SS9_Guessing)
+ [Interest](/skillsets/SS8_Interest) <br>
+
+[![SS8](/img/SS8_Interest.png)](/skillsets/SS8_Interest)
+
+ [Guessing](/skillsets/SS9_Guessing) <br>
+
+[![SS9](/img/SS9_Guessing.png)](/skillsets/SS9_Guessing)
