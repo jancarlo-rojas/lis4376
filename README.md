@@ -23,9 +23,9 @@
 	- Visualize Data
 	- Reverse Engineered A3 in Jupyter
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-	- 
-	- 
-	- 
+	- Develop A4 ipynb
+	- Linear Regression
+	- Skillsets 10-12
 5. [A5 README.md](a5/README.md "My A5 README.md file")
 	- 
 	- 
