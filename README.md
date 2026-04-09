@@ -27,9 +27,10 @@
 	- Linear Regression
 	- Skillsets 10-12
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-	- 
-	- 
-	- 
+	- Skillsets 13-15
+	- Developed A5 IPYNB
+	- Multiple Linear Regression
+	- Image Analysis with openCV
 6. [P1 README.md](p1/README.md "My p1 README.md file")
 	- Text analysis, clarification and prediction notebook
 	- Backwards Engineer Skillsets 7-9

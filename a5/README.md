@@ -1,31 +1,36 @@
-# LIS476
+# LIS476 - Artificial Intelligence Applications
 
 ## Jancarlo Rojas
 
-### Assignment 1 Requirements:
+### Assignment 5 Requirements:
 
-*SSH Keygen:*
+- Skillsets 13-15
+- Developed A5 IPYNB
+- Multiple Linear Regression
+- Image Analysis with openCV
 
-1. Produces a private key and a public key
-2. These files got stored in my user folder inside another folder named .ssh
+---
+
+*A5 Gif*:
+
+![A5GIF](../img/A5.gif)
 
 ---
 
-> #### Git commands w/short descriptions:
+*Files*:
 
-1. git init - create an empty git repo or reinit an existing one
-2. git status - gives you the current status of the working directory
-3. git add - adds new files as in you want to push them w git
-4. git commit - locks in the files you just added, can also add commit messages using this
-5. git push - pushes your changes from local to your online repo
-6. git pull - receives your files from online repo
-7. git rm -r (filename) - removes selected file
-
----
+- [A5.ipynb](/a5/A5.ipynb)
 
 #### Assignment Screenshots:
 
-*PUT DESCRIPTIONS OF SS HERE:
+*Skillsets 13-15*:
 
-![AMPPS Installation Screenshot](/img/aamps.png)
+- [SS13](../skillsets/SS13_Algorithms)  
+![SS13](../img/SS13.gif)
+
+- [SS14](../skillsets/SS14_PythonImageProcessing)  
+![SS14](../img/SS14.gif)
+
+- [SS15](../skillsets/SS15_PyImgProcessing2)  
+![SS15](../img/SS15.gif)
 
