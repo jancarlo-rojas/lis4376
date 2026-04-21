@@ -38,8 +38,8 @@
 	- Prediction Model
 	- Prediction Analysis
 7. [P2 README.md](p2/README.md "My p2 README.md file")
-	- 
-	- 
-	- 
-	
+	- Reverse Engineer P2
+	- Reverse Engineer In Class Excersize
+	- Prediction Models
+	- Train and Assess Data
 
